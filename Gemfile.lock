@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/10Pines/testing_http_client.git
+  revision: b2f7c6d7ff9dd060ae48f20cdec9a3ed1d3b384f
+  specs:
+    testing_http_client (0.0.1)
+
 PATH
   remote: .
   specs:
@@ -31,3 +37,4 @@ DEPENDENCIES
   rake
   rspec
   simplecov
+  testing_http_client!
