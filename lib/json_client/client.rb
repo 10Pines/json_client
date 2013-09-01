@@ -32,7 +32,7 @@ module JsonClient
     protected
 
     def fetch_http_response_from an_url
-      @http_client.get an_url
+      @http_client.get_response an_url
     end
 
     def build_json_response_from an_http_response

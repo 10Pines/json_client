@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/10Pines/testing_http_client.git
-  revision: b2f7c6d7ff9dd060ae48f20cdec9a3ed1d3b384f
+  revision: 669c93c458a8627596ace69065fecd0837d9c110
   specs:
     testing_http_client (0.0.1)
 
